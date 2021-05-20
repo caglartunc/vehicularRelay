@@ -1,3 +1,3 @@
-# vehicular_relay_network_simulation
+# Vehicular Relay Network Simulation
 
-This 
+A vehicular relay network for a highway scenario is simulated.
